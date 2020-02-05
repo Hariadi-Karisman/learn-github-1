@@ -7,3 +7,4 @@ ini membuat branch baru
 - belajar framework frontend
 - belajar python kedepannya
 - belajar data science
+- belajar angular
