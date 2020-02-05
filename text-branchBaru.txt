@@ -3,3 +3,5 @@ selamat datang dan selamat belajar
 ini membuat branch baru
 - belajar javascript
 - belajar front-end
+- belajar back-end
+- belajar framework react
