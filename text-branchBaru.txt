@@ -1,3 +1,4 @@
 selamat datang dan selamat belajar 
 
 ini membuat branch baru
+- belajar javascript
